@@ -27,10 +27,10 @@ Follow these steps to set up and run the project:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Sagargupta028/Advance-to-do.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd Advance-to-do
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -72,23 +72,12 @@ src/
     └── api.ts
 ```
 
-## Deployment
-
-The application is deployed using [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), or [GitHub Pages](https://pages.github.com/). Access the live site [here](<YOUR_LIVE_SITE_URL>).
 
 ## Screenshots
+![Screenshot 1]
+![Screenshot 2025-03-24 165705](https://github.com/user-attachments/assets/4b2ab440-f351-47d6-831a-8cb40395c023)
 
-![Screenshot 1](Screenshot 2025-03-24 165622.png)
-![Screenshot 2](Screenshot 2025-03-24 165705.png)
-
-## Submission
-
-Submit your project as a GitHub repository link with a detailed README on setup and running instructions. Include screenshots and a brief overview of the features implemented.
-
-## License
-
-This project is licensed under the MIT License.
-
----
+![Screenshot 2]
+![Screenshot 2025-03-24 165622](https://github.com/user-attachments/assets/93e0dfe1-9e3c-4832-a107-0bfb97e2c834)
 
 Happy coding!
